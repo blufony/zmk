@@ -54,7 +54,7 @@
 				&kp BSPC    &as(K)    &as(DOT)    &as(O)     &as(COMMA)       &as(Z)        &as(V)       &as(G)        &as(C)    &as(L)   &as(MINUS) &as(Y)
 				&kp TAB     &as(H)    &as(A)      &as(E)     &as(I)           &as(U)        &as(D)       &as(T)        &as(R)    &as(N)   &as(S)     &as(F)
 				&kp LCTRL   &as(X)    &as(Q)      &as(SQT)   &as(LBKT)        &as(SEMI)     &as(B)       &as(P)        &as(W)    &as(M)   &as(J)     &kp RET
-				                      &kp LGUI    &kp LGUI   &kp LC(LA(LGUI)  &lt sym SPACE &lt mov RET  &kp LC(LALT)  &kp LALT  &kp LALT  
+				                      &kp LGUI    &kp LGUI   &kp LGUI  &lt sym SPACE &lt mov RET  &kp LALT  &kp LALT  &kp LALT  
 			>;
         };
 
