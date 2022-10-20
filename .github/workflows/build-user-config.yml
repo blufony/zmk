@@ -1,5 +1,6 @@
 name: Reusable user config build
 
+on: [workflow_dispatch]
 on:
   workflow_call:
     inputs:
